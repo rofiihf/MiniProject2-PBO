@@ -1,0 +1,5 @@
+model\AbstractMember.class
+model\Member.class
+service\CRUDService.class
+service\ManajemenWarnet.class
+model\PremiumMember.class
